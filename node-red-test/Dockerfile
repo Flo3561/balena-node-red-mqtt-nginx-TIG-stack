@@ -13,7 +13,7 @@ RUN npm install node-red-contrib-resinio \
     node-red-contrib-http-multipart \
     node-red-contrib-md5 \
     node-red-contrib-ui_list \
-    node-red-contrib-ttn \
+    node-red-contrib-influxdb \
     node-red-dashboard
 
 ## install node-red-admin which is needed if you want to created hashed password for the node-red editor.
